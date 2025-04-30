@@ -1,11 +1,12 @@
+### Hi there 👋
+
+## I'm Reda  
+## I'm a C, C++, and Web Developer studying at 1337 FIL (42 Network),
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile;C%2FC%2B%2B+and+Web+Developer;Open+Source+Enthusiast" />
 </p>
 
-### Hi there 👋
 
-## I'm Reda  
-## I'm a C, C++, and Web Developer studying at 1337 FIL (42 Network), and I contribute to a bunch of open source projects.
 
 <p align="center">
   <a href="https://github.com/rbouissa">
