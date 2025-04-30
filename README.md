@@ -17,7 +17,7 @@
 - 🛠️ **Backend:** Django
 - 🗄️ **Database:** MySQL, PostgreSQL
 - 🔧 **Tools:** Git, Docker, Linux, VS Code
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 ---
 
 ### 📈 GitHub Stats:
