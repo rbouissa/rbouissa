@@ -47,7 +47,7 @@
 ---
 
 ### 📫 Reach Me:
-- Email: reda@example.com
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Email: linkdenrbouissali@gmail.com
+- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/bouissali-reda-2b8400287/)
+
 
