@@ -14,7 +14,7 @@
 ### 💻 Tech Stack:
 - 🚀 **Languages:** C, C++, JavaScript, Python
 - 🌐 **Frontend:** HTML, CSS, React.js
-- 🛠️ **Backend:** Django, Node.js (Express), Spring Boot
+- 🛠️ **Backend:** Django
 - 🗄️ **Database:** MySQL, PostgreSQL
 - 🔧 **Tools:** Git, Docker, Linux, VS Code
 
@@ -23,8 +23,11 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbouissa&show_icons=true&theme=tokyonight" alt="Reda's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbouissa&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rbouissa&show_icons=true&theme=tokyonight&hide_border=false" alt="Reda's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=rbouissa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
