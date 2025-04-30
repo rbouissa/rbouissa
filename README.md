@@ -17,11 +17,13 @@
 - 🛠️ **Backend:** Django
 - 🗄️ **Database:** MySQL, PostgreSQL
 - 🔧 **Tools:** Git, Docker, Linux, VS Code
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -34,9 +36,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=rbouissa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/> <!-- for coding -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/> <!-- for learning -->
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/> <!-- terminal hacking style -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/> <!-- for coding -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/> <!-- for learning -->
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/> <!-- terminal hacking style -->
+</p>
 
 ---
 
