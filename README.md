@@ -18,6 +18,11 @@
 - 🗄️ **Database:** MySQL, PostgreSQL
 - 🔧 **Tools:** Git, Docker, Linux, VS Code
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
 ---
 
 ### 📈 GitHub Stats:
@@ -29,6 +34,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=rbouissa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/> <!-- for coding -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/> <!-- for learning -->
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/> <!-- terminal hacking style -->
 
 ---
 
@@ -36,6 +44,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile;C%2FC%2B%2B+and+Web+Developer;Open+Source+Enthusiast" />
 
 ---
 
