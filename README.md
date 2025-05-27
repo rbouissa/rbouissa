@@ -40,16 +40,6 @@
 </p>
 
 
-### Hi there 👋
-
-## I'm Reda  
-## I'm a C, C++, and Web Developer studying at 1337 FIL (42 Network), and I contribute to a bunch of open source projects.
-
-<p align="center">
-  <a href="https://github.com/rbouissa">
-    <img align="center" src="https://badge.mediaplus.ma/binary/rbouissa" />
-  </a>
-</p>
 
 ---
 
