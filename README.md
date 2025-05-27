@@ -59,27 +59,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbouissa&show_icons=true&theme=tokyonight&hide_border=false" alt="Reda's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=rbouissa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/> <!-- for coding -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/> <!-- for learning -->
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/> <!-- terminal hacking style -->
-</p>
-
----
-
-### ✨ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 ---
 
